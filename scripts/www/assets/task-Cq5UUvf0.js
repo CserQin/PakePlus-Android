@@ -1,0 +1,1 @@
+const A={PENDING:"排队中",EXTRACTING:"提取内容",ANALYZING:"AI 分析",SEARCHING:"搜索推荐",COMPLETED:"已完成",FAILED:"失败",CANCELLED:"已取消"},N=["PENDING","EXTRACTING","ANALYZING","SEARCHING","COMPLETED"];function T(E){return E==="COMPLETED"||E==="FAILED"||E==="CANCELLED"}function I(E){return E==="PENDING"||E==="EXTRACTING"||E==="ANALYZING"||E==="SEARCHING"}export{A as T,N as a,I as b,T as i};
