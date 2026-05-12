@@ -9,7 +9,7 @@
     "state": true,
     "single": true,
     "injectJq": true,
-    "tauriApi": false,
+    "tauriApi": true,
     "devbug": false,
     "version": "0.0.1",
     "preview": "desktop",
