@@ -1,0 +1,1 @@
+import{I as t}from"./index-CPtXIzj_.js";function n(){return t.get("/admin/categories")}function o(e){return t.post("/admin/categories",e)}function i(e,r){return t.put(`/admin/categories/${e}`,r)}function c(e){return t.delete(`/admin/categories/${e}`)}export{o as c,c as d,n as g,i as u};
