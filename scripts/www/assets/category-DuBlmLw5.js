@@ -1,0 +1,1 @@
+import{K as t}from"./index-DpwU-45C.js";function n(){return t.get("/admin/categories")}function o(e){return t.post("/admin/categories",e)}function i(e,r){return t.put(`/admin/categories/${e}`,r)}function c(e){return t.delete(`/admin/categories/${e}`)}export{o as c,c as d,n as g,i as u};
